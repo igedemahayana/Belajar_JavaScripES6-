@@ -1,5 +1,21 @@
 # Materi Belajar JavaScript ES6+
 
+# Dokumentasi Belajar JavaScript
+
+<!-- Code Academy -->
+<p align="center">
+  <a href="https://www.codecademy.com/enrolled/courses/learn-javascript-fundamentals">
+    <img src="images/codeacademy.png" alt="Code Academy" width="900">
+  </a>
+</p>
+
+<!-- W3 Schools -->
+<p align="center">
+  <a href="https://www.w3schools.com/js/default.asp">
+    <img src="images/w3schools.png" alt="W3 Schools" width="900">
+  </a>
+</p>
+
 ## 1 Variabel & Deklarasi
 
 1. var vs let vs const (why var sekarang dihindari)
