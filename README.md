@@ -3,6 +3,9 @@
 # Dokumentasi Belajar JavaScript
 
 <!-- Code Academy -->
+
+## Code Academy
+
 <p align="center">
   <a href="https://www.codecademy.com/enrolled/courses/learn-javascript-fundamentals">
     <img src="images/codeacademy.png" alt="Code Academy" width="900">
@@ -10,6 +13,9 @@
 </p>
 
 <!-- W3 Schools -->
+
+## W3 Schools
+
 <p align="center">
   <a href="https://www.w3schools.com/js/default.asp">
     <img src="images/w3schools.png" alt="W3 Schools" width="900">
