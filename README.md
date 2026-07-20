@@ -51,6 +51,10 @@
 
 ## 5. Loops and Iterations
 
+<p align="center">
+  <img src="images/Loop & Interations.png" alt="Banner" width="900">
+</p>
+
 1. for loop (+ break & continue)
 2. while loop
 3. do...while loop
@@ -59,3 +63,5 @@
    (iterasi OBJECT — key-based, hati-hati jangan dipakai untuk array)
 6. Array iteration methods (forEach)
    bukan loop asli tapi sering dipakai sebagai pengganti loop
+
+## Functions
