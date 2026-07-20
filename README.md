@@ -9,6 +9,10 @@
 
 ## 2. Tipe Data Primitif & Object
 
+<p align="center">
+  <img src="images/typeData.png" alt="Type Data" width="900">
+</p>
+
 1. String
 2. undefined (tidak diisi nilai)
 3. number (decimal/bulat)
@@ -22,6 +26,10 @@
 11. Function (technically object juga — first-class citizen)
 
 ## 3. Operators in JavaScript
+
+<p align="center">
+  <img src="images/operators.png" alt="Operators JavaScript" width="900">
+</p>
 
 1. Expressions Vs Statements
 2. Assignment Operators (=, +=, -=, \*=, /=)
@@ -43,8 +51,12 @@
 
 ## 4. Control Flow
 
-1. if / else if / else [☑]
-2. switch statement [☑]
+<p align="center">
+  <img src="images/controlFlow.png" alt="Control Flow" width="900">
+</p>
+
+1. if / else if / else
+2. switch statement
 3. Exception Handling: try...catch...finally, throw
 4. Error Objects (Error, TypeError, SyntaxError, custom error)
 5. Strict Mode ('use strict')
@@ -63,5 +75,3 @@
    (iterasi OBJECT — key-based, hati-hati jangan dipakai untuk array)
 6. Array iteration methods (forEach)
    bukan loop asli tapi sering dipakai sebagai pengganti loop
-
-## Functions
