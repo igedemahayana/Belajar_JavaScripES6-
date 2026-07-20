@@ -52,7 +52,7 @@
 ## 5. Loops and Iterations
 
 <p align="center">
-  <img src="images/Loop & Interations.png" alt="Banner" width="900">
+  <img src="images/Loops&Interations.png" alt="Loops & Interations" width="900">
 </p>
 
 1. for loop (+ break & continue)
