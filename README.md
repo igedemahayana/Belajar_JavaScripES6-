@@ -98,7 +98,7 @@
 6. Array iteration methods (forEach)
    bukan loop asli tapi sering dipakai sebagai pengganti loop
 
-## Functions
+## 6. Functions
 
 1. Function Declaration vs Function Expression
 2. Default Parameters
@@ -111,3 +111,77 @@
 - Recursion
 - Lexical Scoping
 - Closures (dipakai di custom hooks React nanti)
+
+## 7. Arrays & Objects
+
+1. Array methods dasar:
+   -push
+   -pop
+   -shift
+   -unshift
+   -slice
+   -splice
+
+2. Array methods functional (sering dipakai di React):
+   -map
+   -filter
+   -reduce
+   -find
+   -findIndex
+   -some
+   -every
+   -sort
+   -includes
+
+3. Array Destructuring
+4. Spread pada array ([...arr])
+
+5. Object methods:
+   -Object.keys()
+   -Object.values()
+   -Object.entries()
+   -Object.assign()
+   -Object.freeze()
+
+6. Object Destructuring
+   (termasuk nested & rename saat destructure)
+
+7. Spread pada object ({...obj})
+8. Computed property names ({[key]: value})
+
+## 8. Classes & this
+
+1. Class syntax (constructor, method, extends, super)
+2. Getter & Setter
+3. Static method & property
+
+4. this keyword behavior:
+
+- di dalam method
+- di dalam function biasa
+- dipakai sendiri (global)
+- di event handler
+- di arrow function (lexical this)
+
+5. Function Borrowing
+6. Explicit Binding: call(), apply(), bind()
+
+## 9. DOM APIs & Events JavaScript
+
+(Belum di isi)
+
+## 10. Asynchronous JavaScript
+
+1. Kenapa JS butuh async (single-threaded, non-blocking)
+2. Callback function & "Callback Hell"
+
+3. Event Loop dasar (Call Stack, Task Queue, Microtask Queue)
+   paham ini bikin ngerti kenapa console.log urutannya kadang "aneh"
+
+4. Promise: .then(), .catch(), .finally()
+5. Promise.all(), Promise.race(), Promise.allSettled()
+6. async/await
+7. Error handling di async (try...catch dengan await)
+
+8. Fetch API (fetch()
+   untuk request ke API — dipakai terus-terusan di React)
