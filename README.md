@@ -97,3 +97,17 @@
    (iterasi OBJECT — key-based, hati-hati jangan dipakai untuk array)
 6. Array iteration methods (forEach)
    bukan loop asli tapi sering dipakai sebagai pengganti loop
+
+## Functions
+
+1. Function Declaration vs Function Expression
+2. Default Parameters
+3. Rest Parameters
+4. Arrow Functions
+5. First-Class Function & Higher-Order Function
+6. Callback Function
+7. Scope & Function Stack:
+
+- Recursion
+- Lexical Scoping
+- Closures (dipakai di custom hooks React nanti)
