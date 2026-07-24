@@ -22,12 +22,14 @@
   </a>
 </p>
 
+<!-- {#2bc,7} -->
+
 ## 1 Variabel & Deklarasi
 
 1. var vs let vs const (why var sekarang dihindari)
 2. Hoisting
 3. Temporal Dead Zone (TDZ)
-4. Variabel Scopes buatkan template readme md dari gambar setiap sub materi
+4. Variabel Scopes
 
 ## 2. Tipe Data Primitif & Object
 
@@ -86,7 +88,7 @@
 ## 5. Loops and Iterations
 
 <p align="center">
-  <img src="images/Loops&Interations.png" alt="Loops & Interations" width="900">
+  <img src="images/Loops&Interations.png" alt="Loops & Interations" width="900">  
 </p>
 
 1. for loop (+ break & continue)
@@ -97,6 +99,8 @@
    (iterasi OBJECT — key-based, hati-hati jangan dipakai untuk array)
 6. Array iteration methods (forEach)
    bukan loop asli tapi sering dipakai sebagai pengganti loop
+
+  <!-- {#ef2,14} -->
 
 ## 6. Functions
 
@@ -111,6 +115,8 @@
 - Recursion
 - Lexical Scoping
 - Closures (dipakai di custom hooks React nanti)
+
+  <!-- {#8e9,37} -->
 
 ## 7. Arrays & Objects
 
@@ -149,6 +155,8 @@
 7. Spread pada object ({...obj})
 8. Computed property names ({[key]: value})
 
+  <!-- {#5d8,17} -->
+
 ## 8. Classes & this
 
 1. Class syntax (constructor, method, extends, super)
@@ -166,9 +174,13 @@
 5. Function Borrowing
 6. Explicit Binding: call(), apply(), bind()
 
+  <!-- {#267,4} -->
+
 ## 9. DOM APIs & Events JavaScript
 
 (Belum di isi)
+
+  <!-- {#f70,17} -->
 
 ## 10. Asynchronous JavaScript
 

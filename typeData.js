@@ -3,7 +3,7 @@ function typeDataString() {
   let nama = "Mahayana";
   let value = 95;
   console.log("Halo nama kamu adalah " + nama); // penggabungan string dulu
-  console.log(`Halo nama kamu adalah ${nama}`); // template literal
+  console.log(`Halo nama kamu adalah ${nama}`); // template literal (versi sekarang)
   console.log(`Nama: ${nama}, Nilai: ${value > 90}`); // Expression di template literal
 
   // ini adalah Multiline String
